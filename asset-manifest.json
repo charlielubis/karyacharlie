@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karyacharlie/static/css/main.1f921f2a.css",
+    "main.js": "/karyacharlie/static/js/main.2ba11b0b.js",
+    "static/media/home-bg.png": "/karyacharlie/static/media/home-bg.88881b99708838e994ba.png",
+    "static/media/testimonials-bg.png": "/karyacharlie/static/media/testimonials-bg.ca790420ca2929db6c51.png",
+    "static/media/bodi.png": "/karyacharlie/static/media/bodi.65b961d373e65193770f.png",
+    "static/media/some-facts-bg.png": "/karyacharlie/static/media/some-facts-bg.96c4e9e72327496a8948.png",
+    "static/media/container.png": "/karyacharlie/static/media/container.e6c4843caa69b45255ad.png",
+    "static/media/bg-button.png": "/karyacharlie/static/media/bg-button.50da665caf10121e33cc.png",
+    "static/media/footer.png": "/karyacharlie/static/media/footer.ae5c7755b930f626baf5.png",
+    "static/media/header.png": "/karyacharlie/static/media/header.9ac0e319d33815405896.png",
+    "static/media/slick.svg": "/karyacharlie/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/karyacharlie/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/karyacharlie/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/karyacharlie/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/karyacharlie/index.html",
+    "main.1f921f2a.css.map": "/karyacharlie/static/css/main.1f921f2a.css.map",
+    "main.2ba11b0b.js.map": "/karyacharlie/static/js/main.2ba11b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f921f2a.css",
+    "static/js/main.2ba11b0b.js"
+  ]
+}
